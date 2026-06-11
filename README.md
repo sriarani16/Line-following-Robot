@@ -48,12 +48,10 @@ The circuit diagram can be viewed below:
 
 Watch the robot in action:
 
-[▶ Demo Video](Demo/Demo_Video.mp4)
-
-
+[![Watch Demo Video](https://img.youtube.com/vi/ZyPxoJ41Jus/0.jpg)](https://www.youtube.com/watch?v=ZyPxoJ41Jus)
 ---
 
-## ⚙️ System Components
+## System Components
 
 - Arduino Uno
 - IR Sensor Array
